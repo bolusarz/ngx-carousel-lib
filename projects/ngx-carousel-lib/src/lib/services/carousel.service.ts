@@ -1,6 +1,6 @@
 import {Injectable} from '@angular/core';
-import {Slide} from './models/slide.model';
-import {NgxCarouselLibModule} from './ngx-carousel-lib.module';
+import {Slide} from '../models/slide.model';
+import {NgxCarouselLibModule} from '../ngx-carousel-lib.module';
 
 @Injectable({
   providedIn: NgxCarouselLibModule

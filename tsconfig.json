@@ -11,6 +11,12 @@
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
+    "paths": {
+      "ngx-carousel-lib": [
+        "dist/ngx-carousel-lib/ngx-carousel-lib",
+        "dist/ngx-carousel-lib"
+      ]
+    },
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
